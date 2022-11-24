@@ -1,12 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import HomeMainListContentContainer from "./compo/view/home/HomeMainList/sub-comp/HomeMainListContent/HomeMainListContentContainer";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      </header>
+      <HomeMainListContentContainer />
     </div>
   );
 }

@@ -8,6 +8,7 @@
     ],
     "experimentalDecorators": true,
     "useDefineForClassFields": true,
+    "suppressImplicitAnyIndexErrors": true,
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
